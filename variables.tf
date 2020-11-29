@@ -1,3 +1,9 @@
+variable tfc_org_name {
+}
+
+variable tfc_network_workspace_name {
+}
+
 variable aws_region {
   description = "AWS region"
   type        = string
